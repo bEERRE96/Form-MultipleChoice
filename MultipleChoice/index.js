@@ -31,30 +31,30 @@ const preguntas = [
     retroalimentacionPositiva: document.getElementById("respuesta-correcta5"),
     retroalimentacionNegativa: document.getElementById("respuesta-incorrecta5"),
   },
-{
-  respuestas: document.getElementsByName("pregunta6"),
-  respuestaCorrecta: "Correcta",
-  retroalimentacionPositiva: document.getElementById("respuesta-correcta6"),
-  retroalimentacionNegativa: document.getElementById("respuesta-incorrecta6"),
-},
-{
-  respuestas: document.getElementsByName("pregunta7"),
-  respuestaCorrecta: "Correcta",
-  retroalimentacionPositiva: document.getElementById("respuesta-correcta7"),
-  retroalimentacionNegativa: document.getElementById("respuesta-incorrecta7"),
-},
-{
-  respuestas: document.getElementsByName("pregunta8"),
-  respuestaCorrecta: "Correcta",
-  retroalimentacionPositiva: document.getElementById("respuesta-correcta8"),
-  retroalimentacionNegativa: document.getElementById("respuesta-incorrecta8"),
-},
-{
-  respuestas: document.getElementsByName("pregunta9"),
-  respuestaCorrecta: "Correcta",
-  retroalimentacionPositiva: document.getElementById("respuesta-correcta9"),
-  retroalimentacionNegativa: document.getElementById("respuesta-incorrecta9"),
-}
+  {
+    respuestas: document.getElementsByName("pregunta6"),
+    respuestaCorrecta: "Correcta",
+    retroalimentacionPositiva: document.getElementById("respuesta-correcta6"),
+    retroalimentacionNegativa: document.getElementById("respuesta-incorrecta6"),
+  },
+  {
+    respuestas: document.getElementsByName("pregunta7"),
+    respuestaCorrecta: "Correcta",
+    retroalimentacionPositiva: document.getElementById("respuesta-correcta7"),
+    retroalimentacionNegativa: document.getElementById("respuesta-incorrecta7"),
+  },
+  {
+    respuestas: document.getElementsByName("pregunta8"),
+    respuestaCorrecta: "Correcta",
+    retroalimentacionPositiva: document.getElementById("respuesta-correcta8"),
+    retroalimentacionNegativa: document.getElementById("respuesta-incorrecta8"),
+  },
+  {
+    respuestas: document.getElementsByName("pregunta9"),
+    respuestaCorrecta: "Correcta",
+    retroalimentacionPositiva: document.getElementById("respuesta-correcta9"),
+    retroalimentacionNegativa: document.getElementById("respuesta-incorrecta9"),
+  },
 ];
 
 boton.addEventListener("click", (event) => {

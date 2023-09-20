@@ -10,7 +10,7 @@ html {
     padding: 5px;
 }
 
-body h1{
+body h1 {
     font-size: 20px;
     text-align: center;
     font-weight: bold;
@@ -39,74 +39,108 @@ body h1{
 
 #respuesta-incorrecta4 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta4 {
     display: none;
+    font-weight: bold;
+    color: green;
 }
 
 #respuesta-correcta3 {
     display: none;
+    color: green;
+    font-weight: bold;
 }
 
 #respuesta-incorrecta3 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta2 {
     display: none;
+    font-weight: bold;
+    color: green;
 }
 
 #respuesta-incorrecta2 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta1 {
     display: none;
+    color: green;
+    font-weight: bold;
 }
 
 #respuesta-incorrecta1 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta5 {
     display: none;
+    font-weight: bold;
+    color: green;
 }
 
 #respuesta-incorrecta5 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta6 {
     display: none;
+    color: green;
+    font-weight: bold;
 }
 
 #respuesta-incorrecta6 {
     display: none;
+    font-weight: bold;
+    color: red;
 }
 
 #respuesta-correcta7 {
     display: none;
+    color: green;
+    font-weight: bold;
 }
 
 #respuesta-incorrecta7 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta8 {
     display: none;
+    color: green;
+    font-weight: bold;
 }
 
 #respuesta-incorrecta8 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
 
 #respuesta-correcta9 {
     display: none;
+    color: green;
+    font-weight: bold;
 }
 
 #respuesta-incorrecta9 {
     display: none;
+    color: red;
+    font-weight: bold;
 }
-
-
